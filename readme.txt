@@ -5,6 +5,9 @@ Requires at least: 2.6
 Tested up to: 2.8
 Stable tag: 0.1
 
+
+FIXME FOR CURRENT PLUGIN.
+
 This is a plugin to display a few useful path definitions 
 on the options page.  Very useful for learning how to use
 predefined variables, and looking up those variable's values
